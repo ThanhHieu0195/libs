@@ -1,0 +1,325 @@
+{
+    "checkin": "2018-08-16",
+    "checkout": "2018-08-17",
+    "channels": {
+        "booking": {
+        "hotels": [
+            {"channel_id": "60473", "origin_channel_url": "http://www.booking.com/hotel/de/holidayinnpassau.html?aid=347618", "hotel_id": "1"},
+            {"channel_id": "72836", "origin_channel_url": "http://www.booking.com/hotel/de/holidayinnpassau.html?aid=347618", "hotel_id": "2"},
+            {"channel_id": "56568", "origin_channel_url": "http://www.booking.com/hotel/de/holidayinnpassau.html?aid=347618", "hotel_id": "3"}
+        ],
+        "rooms": [
+            {"adult": 2, "children": [4, 8]}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "rakuten": {
+        "hotels": [
+            {"channel_id": "1020", "origin_channel_url": "https://travel.rakuten.co.jp/HOTEL/1020/1020.html", "hotel_id": "1"},
+            {"channel_id": "138040", "origin_channel_url": "https://travel.rakuten.co.jp/HOTEL/138040/138040.html", "hotel_id": "2"},
+            {"channel_id": "10630", "origin_channel_url": "https://travel.rakuten.co.jp/HOTEL/10630/10630.html", "hotel_id": "3"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": [4, 8]}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "nta": {
+        "hotels": [
+            {"channel_id": "6130-103", "origin_channel_url": "http://rsv.nta.co.jp/Affiliate/set/AF100101.aspx?SITE_ID=00570060&REDI_URL=http%3A%2F%2Fkokunai.nta.co.jp%2Fyado%2Fippan%2Fwebapp%2FHotelFacilitieAction.do%3Ftiku_cd%3D6130%26sst_cd%3D103%26plview_kbn%3D0%26link_kbn%3D1", "hotel_id": "1"},
+            {"channel_id": "2641-101", "origin_channel_url": "http://rsv.nta.co.jp/Affiliate/set/AF100101.aspx?SITE_ID=00570060&REDI_URL=http%3A%2F%2Fkokunai.nta.co.jp%2Fyado%2Fippan%2Fwebapp%2FHotelFacilitieAction.do%3Ftiku_cd%3D2641%26sst_cd%3D101%26plview_kbn%3D0%26link_kbn%3D1", "hotel_id": "2"},
+            {"channel_id": "6793-305", "origin_channel_url": "http://rsv.nta.co.jp/Affiliate/set/AF100101.aspx?SITE_ID=00570060&REDI_URL=http%3A%2F%2Fkokunai.nta.co.jp%2Fyado%2Fippan%2Fwebapp%2FHotelFacilitieAction.do%3Ftiku_cd%3D6793%26sst_cd%3D305%26plview_kbn%3D0%26link_kbn%3D1", "hotel_id": "3"}
+        ],
+        "rooms": [
+            {"adult": 2, "children": [8]}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "ikyu": {
+        "hotels": [
+            {"channel_id": "1171700", "origin_channel_url": "http://rsv.nta.co.jp/Affiliate/set/AF100101.aspx?SITE_ID=00570060&REDI_URL=http%3A%2F%2Fkokunai.nta.co.jp%2Fyado%2Fippan%2Fwebapp%2FHotelFacilitieAction.do%3Ftiku_cd%3D6130%26sst_cd%3D103%26plview_kbn%3D0%26link_kbn%3D1", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "appleworld": {
+        "hotels": [
+            {"channel_id": "00010201", "origin_channel_url": "", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 2, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "rurubu": {
+            "hotels": [
+                {"channel_id": "1529001", "origin_channel_url": "", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 2, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+     "relux": {
+            "hotels": [
+                {"channel_id": "23625", "origin_channel_url": "", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 2, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+    "rakuda": {
+                "hotels": [
+                {"channel_id": "80797", "origin_channel_url": "", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 2, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+     "ozmall": {
+                "hotels": [
+                {"channel_id": "2", "origin_channel_url": "", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 2, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+     "mwt": {
+                "hotels": [
+                {"channel_id": "0103002", "origin_channel_url": "", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 1, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+    "mapple": {
+                "hotels": [
+                {"channel_id": "M000363", "origin_channel_url": "", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 1, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+     "knt": {
+                "hotels": [
+                {"channel_id": "S010001", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 1, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+     "jalan": {
+                "hotels": [
+                {"channel_id": "314463", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+            ],
+            "rooms": [
+                {"adult": 1, "children": []}
+            ],
+            "currency": "USD",
+            "language_code": "en"
+    },
+  "hotelscom": {
+            "hotels": [
+            {"channel_id": "424328", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "228313", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "125675", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "hostelworld": {
+            "hotels": [
+            {"channel_id": "95747", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "30936", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "86949", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "26403", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 2, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "his": {
+            "hotels": [
+            {"channel_id": "ZRH00013", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    }, 
+    "dtravel": {
+            "hotels": [
+            {"channel_id": "3248-101", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "ean": {
+            "hotels": [
+            {"channel_id": "4110", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "5595", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "6295", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "expedia": {
+            "hotels": [
+            {"channel_id": "526852", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "920928", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    
+    },
+    "getaroom": {
+            "hotels": [
+            {"channel_id": "b41ce02e-69a3-4a28-8bf8-2ab48d0d4135", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    
+    },
+    "hankyu": {
+            "hotels": [
+            {"channel_id": "00015", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    
+    },
+    "sys": {
+            "hotels": [
+            {"channel_id": "002015", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    
+    },
+    "tablet": {
+            "hotels": [
+            {"channel_id": "116153", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "63869", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    
+    },
+    "yahoo": {
+            "hotels": [
+            {"channel_id": "115785", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "yahoo": {
+            "hotels": [
+            {"channel_id": "50", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "amoma": {
+        "hotels": [
+            {"channel_id": "441584", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "1", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "2", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "ctrip": {
+        "hotels": [
+            {"channel_id": "345001", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "2987399", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "1573554", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "1508700", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "754710", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "1793599", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "jtb_japan": {
+        "hotels": [
+            {"channel_id": "1101-002", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "1101-008", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"},
+            {"channel_id": "1101-009", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    },
+    "knt": {
+        "hotels": [
+            {"channel_id": "S010001", "origin_channel_url": "http://yado.knt.co.jp/ps/yado.jsp?td=hoteljp&ydcd=1001", "hotel_id": "1"}
+        ],
+        "rooms": [
+            {"adult": 1, "children": []}
+        ],
+        "currency": "USD",
+        "language_code": "en"
+    }
+    }
+}
